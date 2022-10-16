@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/fork",
+  "repository": "https://github.com/ice583/HellBot?organization=ice583&organization=ice583",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
